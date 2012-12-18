@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">abreviateWithOffset</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7
+CglTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJzdHIi
+ICk7CglpbnQJb2Zmc2V0ID0gSURhdGFVdGlsLmdldEludChwaXBlbGluZUN1cnNvciwgIm9mZnNl
+dCIsIDApOwoJaW50CW1heFdpZHRoID0gSURhdGFVdGlsLmdldEludChwaXBlbGluZUN1cnNvciwg
+Im1heFdpZHRoIiwgMCk7CgoJU3RyaW5nIHZhbHVlID0gU3RyaW5nVXRpbHMuYWJicmV2aWF0ZShz
+dHIsIG9mZnNldCwgbWF4V2lkdGgpOwoJSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3JfMSA9IHBp
+cGVsaW5lLmdldEN1cnNvcigpOwoJSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJzb3JfMSwgInZh
+bHVlIiwgdmFsdWUgKTsKCglwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3koKTsKfQpjYXRjaChFeGNl
+cHRpb24gZSkKewoJdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oZSk7Cn0KCQ==</value>
+</Values>

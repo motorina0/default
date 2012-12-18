@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">ordinalIndexOf</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7
+CglTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJzdHIi
+ICk7CglTdHJpbmcJc2VhcmNoU3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJzZWFyY2hTdHIiICk7CglpbnQJb3JkaW5hbCA9IElEYXRhVXRpbC5nZXRJbnQoIHBpcGVs
+aW5lQ3Vyc29yLCAib3JkaW5hbCIsIDAgKTsKCQoKCWludCBpbmRleCA9IFN0cmluZ1V0aWxzLm9y
+ZGluYWxJbmRleE9mKHN0ciwgc2VhcmNoU3RyLCBvcmRpbmFsKTsKCUlEYXRhQ3Vyc29yIHBpcGVs
+aW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsKCUlEYXRhVXRpbC5wdXQoIHBpcGVs
+aW5lQ3Vyc29yXzEsICJpbmRleCIsIGluZGV4ICk7CgoJcGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95
+KCk7Cn0KY2F0Y2goRXhjZXB0aW9uIGUpCnsKCXRocm93IG5ldyBTZXJ2aWNlRXhjZXB0aW9uKGUp
+Owp9Cg==</value>
+</Values>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">overlay</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7
+CglTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJzdHIi
+ICk7CglTdHJpbmcJb3ZlcmxheSA9IElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29y
+LCAib3ZlcmxheSIgKTsKCWludAlzdGFydCA9IElEYXRhVXRpbC5nZXRJbnQoIHBpcGVsaW5lQ3Vy
+c29yLCAic3RhcnQiLCAwKTsKCWludAllbmQgPSBJRGF0YVV0aWwuZ2V0SW50KCBwaXBlbGluZUN1
+cnNvciwgImVuZCIsIDApOwoKCVN0cmluZyB2YWx1ZSA9IFN0cmluZ1V0aWxzLm92ZXJsYXkoc3Ry
+LCBvdmVybGF5ICxzdGFydCwgZW5kKTsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBw
+aXBlbGluZS5nZXRDdXJzb3IoKTsKCUlEYXRhVXRpbC5wdXQoIHBpcGVsaW5lQ3Vyc29yXzEsICJ2
+YWx1ZSIsIHZhbHVlICk7CgoJcGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7Cn0KY2F0Y2goRXhj
+ZXB0aW9uIGUpCnsKCXRocm93IG5ldyBTZXJ2aWNlRXhjZXB0aW9uKGUpOwp9Cg==</value>
+</Values>

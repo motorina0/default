@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">lastIndexOfAnyStringArray</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7
+CglTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJzdHIi
+ICk7CglTdHJpbmdbXQlzZWFyY2hTdHJzID0gSURhdGFVdGlsLmdldFN0cmluZ0FycmF5KCBwaXBl
+bGluZUN1cnNvciwgInNlYXJjaFN0cnMiICk7CgkKCglpbnQgaW5kZXggPSBTdHJpbmdVdGlscy5s
+YXN0SW5kZXhPZkFueShzdHIsIHNlYXJjaFN0cnMpOwoJSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJz
+b3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOwoJSURhdGFVdGlsLnB1dCggcGlwZWxpbmVDdXJz
+b3JfMSwgImluZGV4IiwgaW5kZXggKTsKCglwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3koKTsKfQpj
+YXRjaChFeGNlcHRpb24gZSkKewoJdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oZSk7Cn0K</value>
+</Values>

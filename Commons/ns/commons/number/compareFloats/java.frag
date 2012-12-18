@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">compareFloats</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5DQp7DQoJSURhdGFDdXJzb3IgcGlwZWxpbmVDdXJzb3IgPSBwaXBlbGluZS5nZXRDdXJzb3Io
+KTsNCglmbG9hdAlsaHMgPSBOdW1iZXJVdGlscy5jcmVhdGVGbG9hdChJRGF0YVV0aWwuZ2V0U3Ry
+aW5nKCBwaXBlbGluZUN1cnNvciwgImxocyIgKSk7CQkJCQ0KCWZsb2F0CXJocyA9IE51bWJlclV0
+aWxzLmNyZWF0ZUZsb2F0KElEYXRhVXRpbC5nZXRTdHJpbmcoIHBpcGVsaW5lQ3Vyc29yLCAicmhz
+IiApKTsNCgkJCQ0KCWludCB2YWx1ZSA9IE51bWJlclV0aWxzLmNvbXBhcmUobGhzLCByaHMpOw0K
+CQ0KCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yXzEgPSBwaXBlbGluZS5nZXRDdXJzb3IoKTsN
+CglJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNvcl8xLCAidmFsdWUiLCB2YWx1ZSApOw0KDQoJ
+cGlwZWxpbmVDdXJzb3JfMS5kZXN0cm95KCk7DQp9DQpjYXRjaChFeGNlcHRpb24gZSkNCnsNCgl0
+aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlKTsNCn0J</value>
+</Values>

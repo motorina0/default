@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">splitWithSeparator</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7
+CglTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJzdHIi
+ICk7CglTdHJpbmcJc2VwYXJhdG9yQ2hhcnMgPSBJRGF0YVV0aWwuZ2V0U3RyaW5nKCBwaXBlbGlu
+ZUN1cnNvciwgInNlcGFyYXRvckNoYXJzIiApOwoKCVN0cmluZ1tdIHZhbHVlID0gU3RyaW5nVXRp
+bHMuc3BsaXQoc3RyLCBzZXBhcmF0b3JDaGFycyk7CglJRGF0YUN1cnNvciBwaXBlbGluZUN1cnNv
+cl8xID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7CglJRGF0YVV0aWwucHV0KCBwaXBlbGluZUN1cnNv
+cl8xLCAidmFsdWUiLCB2YWx1ZSApOwoKCXBpcGVsaW5lQ3Vyc29yXzEuZGVzdHJveSgpOwp9CmNh
+dGNoKEV4Y2VwdGlvbiBlKQp7Cgl0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihlKTsKfQo=</value>
+</Values>

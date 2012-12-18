@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">indexOfStartPos</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5CnsKCUlEYXRhQ3Vyc29yIHBpcGVsaW5lQ3Vyc29yID0gcGlwZWxpbmUuZ2V0Q3Vyc29yKCk7
+CglTdHJpbmcJc3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJzb3IsICJzdHIi
+ICk7CglTdHJpbmcJc2VhcmNoU3RyID0gSURhdGFVdGlsLmdldFN0cmluZyggcGlwZWxpbmVDdXJz
+b3IsICJzZWFyY2hTdHIiICk7CglpbnQJc3RhcnRQb3MgPSBJRGF0YVV0aWwuZ2V0SW50KCBwaXBl
+bGluZUN1cnNvciwgInN0YXJ0UG9zIiwgMCApOwoJCgoJaW50IGluZGV4ID0gU3RyaW5nVXRpbHMu
+aW5kZXhPZihzdHIsIHNlYXJjaFN0ciwgc3RhcnRQb3MpOwoJSURhdGFDdXJzb3IgcGlwZWxpbmVD
+dXJzb3JfMSA9IHBpcGVsaW5lLmdldEN1cnNvcigpOwoJSURhdGFVdGlsLnB1dCggcGlwZWxpbmVD
+dXJzb3JfMSwgImluZGV4IiwgaW5kZXggKTsKCglwaXBlbGluZUN1cnNvcl8xLmRlc3Ryb3koKTsK
+fQpjYXRjaChFeGNlcHRpb24gZSkKewoJdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24oZSk7Cn0K
+</value>
+</Values>
